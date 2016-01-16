@@ -1,0 +1,23 @@
+{
+  "name": "commandlinezombies",
+  "version": "1.0.0",
+  "description": "command line zombies game",
+  "main": "index.js",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceckenrode/commandLineZombies.git"
+  },
+  "author": "Christian Eckenrode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceckenrode/commandLineZombies/issues"
+  },
+  "homepage": "https://github.com/ceckenrode/commandLineZombies#readme"
+}
